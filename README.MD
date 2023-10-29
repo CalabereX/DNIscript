@@ -1,0 +1,1 @@
+Este script simula la generación de un número de identificación personal (DNI) en base al nombre que el usuario proporciona (El input). Es importante aclarar que el valor generado por el script es completamente aleatorio y no tiene ninguna correlación con la realidad ni con números de identificación personales reales.

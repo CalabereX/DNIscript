@@ -14,4 +14,4 @@ def generar_valor_unico(nombre):
 #nombre = "Ejemplo" 
 
 valor = generar_valor_unico(nombre = input("Indique el nombre: "))  # Llama a la función con el nombre ingresado por el usuario.
-print("Valor generado:", valor)  # Imprime el valor generado.
+print("Valor generado:", valor)
